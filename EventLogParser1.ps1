@@ -61,7 +61,7 @@ PS C:\Windows\System32> if ($results) {
 >> Write-Host "No results to display or save." -ForegroundColor Yellow
 >> }
 
-TimeCreated         EventID Level   Source
+```TimeCreated         EventID Level   Source
 -----------         ------- -----   ------             
 27/04/2025 13:33:54    1000 Error   Application Error  
 27/04/2025 13:33:53    1026 Error   .NET Runtime       
@@ -127,6 +127,7 @@ TimeCreated         EventID Level   Source
 21/04/2025 11:05:41      63 Warning Microsoft-Windows… 
 21/04/2025 11:05:41      63 Warning Microsoft-Windows… 
 21/04/2025 11:05:41      63 Warning Microsoft-Windows… 
+```
 
 Analysis complete. Report saved to: \Desktop\EventLogReport_20250427_235418.csv
 PS C:\Windows\System32> # Save error log
