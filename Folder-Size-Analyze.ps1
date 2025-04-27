@@ -1,5 +1,5 @@
 # Folder Size Analyzer Script
-# Created by [YourName]
+# Created by Alfa
 
 # Set the target path (modify this if needed)
 $targetPath = "C:\Users\bayea\Documents"
